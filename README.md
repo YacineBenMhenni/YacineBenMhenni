@@ -24,7 +24,8 @@ Designed and built websites for local businesses and clients, focusing on user-f
 🎓 Education:
 -------------
 🎓 Alexander College
-Associate of Science in Computer Science | Expected Graduation: 2025
+
+Associate of Science Degree in Computer Science | Expected Graduation: 2025
 
 
 📖 Interests:
