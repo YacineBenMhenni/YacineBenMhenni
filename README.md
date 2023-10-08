@@ -2,7 +2,7 @@
 Aspiring Computer Scientist | Passionate About Technology and Innovation
 
 🔍 About Me:
-
+------------
 I am a driven and forward-thinking computer science student with a deep passion for all things tech. Eager to harness the power of computer science to solve complex problems and drive innovation. I thrive on challenges and constantly seek to expand my knowledge and skills in this ever-evolving field.
 
 🌐 Freelance Web Developer
@@ -10,7 +10,7 @@ I am a driven and forward-thinking computer science student with a deep passion 
 Designed and built websites for local businesses and clients, focusing on user-friendly interfaces and functionality.
 
 🛠️ Skills:
-
+-----------
 🖱️ Programming Languages: Proficient in Python, Java, C++, and JavaScript.
 
 💻 Software Development: Experience with Git, agile methodologies, and debugging tools.
@@ -22,17 +22,17 @@ Designed and built websites for local businesses and clients, focusing on user-f
 🤖 Machine Learning: Basic knowledge of ML algorithms and frameworks like TensorFlow.
 
 🎓 Education:
-
+-------------
 🎓 Alexander College
 Associate of Science in Computer Science | Expected Graduation: 2025
 
 
 📖 Interests:
-
+-------------
 💡 Artificial Intelligence, Data Science, Cybersecurity, Cloud Computing, and Mobile App Development.
 
 📨 Let's Connect:
-
+-----------------
 I am always open to networking, collaborating on projects, or discussing industry trends. Feel free to connect with me to explore opportunities and share insights.
 
 🔗 LinkedIn: www.linkedin.com/in/yacine-ben-mhenni
