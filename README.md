@@ -37,6 +37,7 @@ Associate of Science Degree in Computer Science | Expected Graduation: 2025
 I am always open to networking, collaborating on projects, or discussing industry trends. Feel free to connect with me to explore opportunities and share insights.
 
 🔗 LinkedIn: www.linkedin.com/in/yacine-ben-mhenni
+
 📧 Email: benmhenniyacine@gmail.com
 
 Let's connect and explore the limitless possibilities of computer science together! 💻🚀 #ComputerScience #Technology #Innovation #Networking
