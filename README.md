@@ -1,5 +1,4 @@
 ### Hi there 👋
-Aspiring Computer Scientist | Passionate About Technology and Innovation
 
 🔍 About Me:
 ------------
@@ -39,5 +38,5 @@ I am always open to networking, collaborating on projects, or discussing industr
 
 📧 Email: benmhenniyacine@gmail.com
 
-Let's connect and explore the limitless possibilities of computer science together! 💻🚀 #ComputerScience #Technology #Innovation #Networking
+Let's connect and explore the limitless possibilities of computer science together! 💻🚀
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yacine-ben-mhenni&label=Profile%20views&color=0e75b6&style=flat" alt="yacine-ben-mhenni" /> </p>
