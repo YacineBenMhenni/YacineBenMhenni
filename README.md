@@ -10,7 +10,7 @@ Designed and built websites for local businesses and clients, focusing on user-f
 
 🛠️ Skills:
 -----------
-🖱️ Programming Languages: Proficient in Python, Java, C++, and JavaScript.
+🖱️ Programming Languages: Proficient in Python, Java, C++, C#, and JavaScript.
 
 💻 Software Development: Experience with Git, agile methodologies, and debugging tools.
 
