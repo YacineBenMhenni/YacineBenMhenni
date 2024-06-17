@@ -4,10 +4,6 @@
 ------------
 I am a driven and forward-thinking computer science student with a deep passion for all things tech. Eager to harness the power of computer science to solve complex problems and drive innovation. I thrive on challenges and constantly seek to expand my knowledge and skills in this ever-evolving field.
 
-🌐 Freelance Web Developer
---------------------------
-Designed and built websites for local businesses and clients, focusing on user-friendly interfaces and functionality.
-
 🛠️ Skills:
 -----------
 🖱️ Programming Languages: Proficient in Python, Java, C++, C#, and JavaScript.
