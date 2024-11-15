@@ -2,7 +2,7 @@
 
 🔍 About Me:
 ------------
-I am a driven and forward-thinking computer science student with a deep passion for all things tech. Eager to harness the power of computer science to solve complex problems and drive innovation. I thrive on challenges and constantly seek to expand my knowledge and skills in this ever-evolving field.
+An Associate of Science student in Computer Science, planning to transfer to SFU for a bachelor's degree. I bring experience in front-end development with HTML, CSS, JavaScript, React, and Material-UI, as well as back-end development using Node.js, FastAPI, and Flask. Skilled in various programming languages including Java, Python, C/C++, SQL (PostgreSQL), and R, and proficient in libraries such as pandas, NumPy, and Matplotlib. Experienced with developer tools like Git, Docker, TravisCI, and Google Cloud Platform, I aim to build impactful, interactive applications that enhance user experiences while expanding my technical expertise.
 
 🛠️ Skills:
 -----------
