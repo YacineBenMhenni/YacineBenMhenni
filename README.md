@@ -28,6 +28,10 @@ Experienced with developer tools like Git, Docker, AWS, TravisCI, and Google Clo
 
 Associate of Science Degree in Computer Science | Expected Graduation: 2026
 
+🎓 Ministry of Education (Tunisia)
+
+National Baccalaureate Diploma in Computer Science | Graduation: 2023
+
 📖 Interests:
 -------------
 💡 Artificial Intelligence, Data Science, Cybersecurity, Cloud Computing, and Mobile App Development.
