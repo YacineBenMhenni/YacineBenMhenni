@@ -2,7 +2,13 @@
 
 🔍 About Me:
 ------------
-An Associate of Science student in Computer Science, planning to transfer to a bachelor's degree. I bring experience in front-end development with HTML, CSS, JavaScript, React, and Material-UI, as well as back-end development using Node.js, FastAPI, and Flask. Skilled in various programming languages including Java, Python, C/C++, SQL (PostgreSQL), and R, and proficient in libraries such as pandas, NumPy, and Matplotlib. Experienced with developer tools like Git, Docker, AWS, TravisCI, and Google Cloud Platform, I aim to build impactful, interactive applications that enhance user experiences while expanding my technical expertise.
+An Associate of Science student in Computer Science, planning to transfer to a bachelor's degree.
+
+I bring experience in both front-end and back-end development with HTML, CSS, JavaScript, React, and Material-UI, as well using Node.js, FastAPI, and Flask. 
+
+Skilled in various programming languages including Java, Python, C/C++, SQL (PostgreSQL), and R, and proficient in libraries such as pandas, NumPy, and Matplotlib. 
+
+Experienced with developer tools like Git, Docker, AWS, TravisCI, and Google Cloud Platform, I aim to build impactful, interactive applications that enhance user experiences while expanding my technical expertise.
 
 🛠️ Skills:
 -----------
